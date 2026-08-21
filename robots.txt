@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://grounded2-guide-hub.vercel.app/sitemap.xml
